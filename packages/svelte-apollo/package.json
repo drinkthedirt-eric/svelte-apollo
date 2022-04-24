@@ -30,7 +30,7 @@
 		"svelte": "^3"
 	},
 	"devDependencies": {
-		"@apollo/client": "^3.5.9",
+		"@apollo/client": "^3.6.0-rc.1",
 		"@jest/globals": "^27.5.1",
 		"@rollup/plugin-typescript": "^6.1.0",
 		"graphql": "^15.8.0",
